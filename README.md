@@ -34,4 +34,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 # Acknowledgments
 
-This game was inspired by the original 2048 game created by Gabriele Cirulli. The Pygame library was used for graphics and event handling.
+This game was inspired by the original 2048 game created by Gabriele Cirulli. The Pygame library was used for graphics and event handling...
