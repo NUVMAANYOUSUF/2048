@@ -28,26 +28,6 @@ pip install pygame
 
 The game window will display the 2048 game grid. Each tile represents a number, and the goal is to combine tiles to reach the 2048 tile.
 
-## The color scheme used in the game is as follows:
-
-    Background color: (187, 173, 160)
-    Tile colors:
-        0: (205, 193, 180)
-        2: (238, 228, 218)
-        4: (237, 224, 200)
-        8: (242, 177, 121)
-        16: (245, 149, 99)
-        32: (246, 124, 95)
-        64: (246, 94, 59)
-        128: (237, 207, 114)
-        256: (237, 204, 97)
-        512: (237, 200, 80)
-        1024: (237, 197, 63)
-        2048: (237, 194, 46)
-    Text color: (119, 110, 101)
-    Grid color: (187, 173, 160)
-    Border color: (205, 193, 180)
-
 # License
 
 This project is licensed under the MIT License. Feel free to modify and distribute it as you like.
